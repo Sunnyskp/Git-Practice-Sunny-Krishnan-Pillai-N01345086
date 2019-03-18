@@ -45,7 +45,9 @@
     "ad"
     "footer";
 }
-
+img#bannerImage {
+  max-width:100%;
+}
 @media (min-width: 500px) {
   .wrapper {
     grid-template-columns: 1fr 3fr;
