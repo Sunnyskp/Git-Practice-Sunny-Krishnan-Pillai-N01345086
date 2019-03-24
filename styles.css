@@ -45,6 +45,10 @@
     "ad"
     "footer";
 }
+.main-nav ul li a {
+  text-decoration:none;
+  color:#1149a3;
+}
 img#bannerImage {
   max-width:100%;
 }
